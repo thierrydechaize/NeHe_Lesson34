@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="All build" />
+	<File name="Lesson34.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2080" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="Lesson34.rc" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="377" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="resource.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2571" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="0a55bae0568bfcbd0008ab4400000003=+3;Lesson34:Lesson34.c,4;Lesson34:resource.h,5;Lesson34:Lesson34.rc@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=824;besth=266;minw=824;minh=266;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0a55bae0568bfcbd0008ab4400000003;caption=;state=2098172;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,0,0)=202|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
